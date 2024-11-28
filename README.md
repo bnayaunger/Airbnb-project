@@ -1,4 +1,4 @@
-# EDA-project-Airbnb Data Analysis
+# Airbnb Project
 
 **Group**
 
